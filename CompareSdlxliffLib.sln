@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareSdlxliffLib", "CompareSdlxliffLib\CompareSdlxliffLib.csproj", "{594EB180-3069-49E3-8C15-1262E82ADAA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareSdlxliff", "CompareSdlxliff\CompareSdlxliff.csproj", "{13B4241E-EF91-430A-BA4E-7FFEEC0F7475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594EB180-3069-49E3-8C15-1262E82ADAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594EB180-3069-49E3-8C15-1262E82ADAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594EB180-3069-49E3-8C15-1262E82ADAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594EB180-3069-49E3-8C15-1262E82ADAA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B4241E-EF91-430A-BA4E-7FFEEC0F7475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B4241E-EF91-430A-BA4E-7FFEEC0F7475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B4241E-EF91-430A-BA4E-7FFEEC0F7475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B4241E-EF91-430A-BA4E-7FFEEC0F7475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32AEEDB4-BC0C-45E9-A444-A7419696DF7E}
+	EndGlobalSection
+EndGlobal
